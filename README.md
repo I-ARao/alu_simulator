@@ -32,7 +32,7 @@ The relevant documentation is given below!
 
 
 
-### Run Locally
+## Run Locally
 
 ##### Note: You must have Vivado installed on to your personal computer or VM. Note that before you can run Vivado (or any Xilinx tool), you must add them to your PATH.
 ```source /tools/Xilinx/Vivado/2020.2/settings64.sh```
