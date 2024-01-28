@@ -6,14 +6,9 @@ Designing and implementing an 8-bit Arithmetic Logic Unit (ALU) for a specific f
 
 ### Installation
 
-##### Note
-
-You must have Vivado installed on to your personal computer or VM. Note that before you can run Vivado (or any Xilinx tool), you must add them to your PATH.
-
+##### Note: You must have Vivado installed on to your personal computer or VM. Note that before you can run Vivado (or any Xilinx tool), you must add them to your PATH.
 ```source /tools/Xilinx/Vivado/2020.2/settings64.sh```
-
 You can then run Vivado with the command:
-
 ```vivado```
 
 ##### Main Installation:
