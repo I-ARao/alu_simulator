@@ -2,17 +2,13 @@
 
 ## Problem Statement:
 
-Designing and implementing an 8-bit Arithmetic Logic Unit (ALU) for a specific function and replicating the output on a seven-segment display using a Nexys 4 A7 FPGA board.
+Designing and implementing an 8-bit Arithmetic Logic Unit (ALU) for a specific function and replicating the output on a seven-segment display using a Nexys A7 FPGA board.
 
 ## Tech Stack
 
-The design is developed both in:
-
-1. Verilog HDL, simulated and synthesized using the Xilinx Vivado Design Suite
-
-2. C++, simulated and synthesized via Xilinx Vitis High Level Synthesis (HLS) tool
-The synthesized designs are mapped to the Nexys A7 board featuring an Artix-7 FPGA. 
-Functional simulation, timing analysis and on-hardware validation are performed to verify correct behavior for different configurations and input stimulus.
+The design is developed in Verilog HDL, simulated and synthesized using the Xilinx Vivado Design Suite
+The synthesized designs were mapped to the Nexys A7 board featuring an Artix-7 FPGA. 
+Behavioural simulation, timing analysis and on-hardware validation were performed to verify correct behavior for different configurations and input stimulus.
 
 ## Authors
 
