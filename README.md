@@ -12,11 +12,11 @@ Behavioural simulation, timing analysis and on-hardware validation were performe
 
 ## Authors
 
-- Aditya Nagane
-- Aditi Rao ([I-ARao](https://github.com/I-ARao))
-- Adya Jha
+- Aditya Nagane ([AadityaNagane](https://github.com/AadityaNagane))
+- Aditi Rao ([unfortunatelygeek](https://github.com/unfortunatelygeek))
+- Adya Jha ([adyajha15](https://github.com/adyajha15))
 - Diya Shah
-- Ameya Joshi
+- Ameya Joshi ([1mbot](https://github.com/1mbot))
 
 ## Documentation
 
